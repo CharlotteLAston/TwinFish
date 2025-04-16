@@ -1,0 +1,96 @@
+[
+    {
+        "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/Model_RccpArm.cpp",
+        "file_last_write": 1733802922.0,
+        "definitions": [
+            {
+                "usr": "c:@F@movementfunc_cpp#1I#1I#1I#$@N@arma@S@Mat>#d#$@N@arma@S@Cube>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "movementfunc_cpp(const int, const int, const int, arma::mat, arma::cube)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/Model_RccpArm.cpp",
+                "line": 5,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@mortalityfunc_cpp#1I#1I#1I#1I#1d#$@N@arma@S@Mat>#d#$@N@arma@S@Cube>#d#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mortalityfunc_cpp(const int, const int, const int, const int, const double, arma::mat, arma::cube, arma::cube, arma::cube)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/Model_RccpArm.cpp",
+                "line": 35,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@recruitmentfunc_cpp#1I#1I#1d#1d#1d#$@N@arma@S@Mat>#d#S0_#$@N@arma@S@Col>#d#$@N@arma@S@Cube>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "recruitmentfunc_cpp(const int, const int, const double, const double, const double, arma::mat, arma::mat, arma::vec, arma::cube)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/Model_RccpArm.cpp",
+                "line": 84,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@RunModelfunc_cpp#1I#1I#1I#1I#1d#1d#1d#1d#$@N@arma@S@Mat>#d#S0_#S0_#$@N@arma@S@Col>#d#$@N@arma@S@Cube>#d#S2_#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "RunModelfunc_cpp(const int, const int, const int, const int, const double, const double, const double, const double, arma::mat, arma::mat, arma::mat, arma::vec, arma::cube, arma::cube, arma::cube)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/Model_RccpArm.cpp",
+                "line": 129,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/rcpparma_hello_world.cpp",
+        "file_last_write": 1743921735.0,
+        "definitions": [
+            {
+                "usr": "c:@F@rcpparma_hello_world#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_hello_world",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/rcpparma_hello_world.cpp",
+                "line": 18,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@rcpparma_outerproduct#&1$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_outerproduct(const arma::colvec &)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/rcpparma_hello_world.cpp",
+                "line": 30,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@rcpparma_innerproduct#&1$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_innerproduct(const arma::colvec &)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/rcpparma_hello_world.cpp",
+                "line": 38,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@rcpparma_bothproducts#&1$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_bothproducts(const arma::colvec &)",
+                "file": "/Users/22291142/Documents/PhD/R Code/FishPopModel/src/rcpparma_hello_world.cpp",
+                "line": 47,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

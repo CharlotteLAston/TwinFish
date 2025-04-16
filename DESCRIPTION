@@ -1,0 +1,14 @@
+Package: TwinFish
+Type: Package
+Title: TwinFish: Digital twin simulation using a spatial dynamic fish population model 
+Version: 1.0
+Date: 2025-04-06
+Author: Charlotte Aston
+Maintainer: Charlotte Aston <charlotte.aston@uwa.edu.au>
+Description: Rcpp and R code to run a fine spatial scale digital twin model of a fish population including movement, mortality, recruitment and extract data about spatial distribution of population and recreational catches from the model
+License:  GPL-3
+Imports: Rcpp (>= 1.0.14)
+LinkingTo: Rcpp, RcppArmadillo
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+
