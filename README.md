@@ -10,6 +10,6 @@ library(devtools)
 
 devtools::install_github("CharlotteLAston/TwinFish", build_vignettes=TRUE)
 
-If you already have a version of the TwinFish package installed but want to update the package, usie the line of code below to ensure the updated version is installed. 
+If you already have a version of the TwinFish package installed but want to update the package, use the line of code below to ensure the updated version is installed. 
 
 devtools::install_github("CharlotteLAston/TwinFish", build_vignettes=TRUE, force=TRUE)
